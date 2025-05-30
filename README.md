@@ -49,14 +49,17 @@ smart__shop/
 
 To run this project locally, follow these steps:
 
-### 1. Clone the Repository
+ 1. Clone the Repository
 
-```bash
+```
 git clone https://github.com/HarshAlkar/smart__shop.git
 cd smart__shop
+```
+2. Install Dependencies & Start the Development Server
+```
 npm install
 npm run dev
-
+```
 📦 Scripts| Script            | Description                    |
 | ----------------- | ------------------------------ |
 | `npm run dev`     | Start the development server   |
